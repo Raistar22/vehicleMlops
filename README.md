@@ -155,6 +155,8 @@ pip list
 
 ## 📞 Contact & Collaboration
 
+yesiamritik33@gmail.com
+
 For questions, demos, or collaboration opportunities, feel free to reach out!
 
 ---
